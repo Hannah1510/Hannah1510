@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Hannah1510
 - 👀 I’m interested in full-stack and front-end.
 - 🌱 I’m a software developer with experince in JavaScript, CSS, HTML, Python, Github, React, JSON and Node.js
-- Please checkout my projects! 
 - 📫 How to reach me hannah.brooke.m@hotmail.co.uk
+
+Please checkout my projects! 
 
 <!---
 Hannah1510/Hannah1510 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
