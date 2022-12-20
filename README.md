@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hannah1510
-- 👀 I’m interested in full-stack, front-end, JavaScript, HTML, CSS, Python...
-- 🌱 I’m currently learning Javascript!
-- 💞️ I’m looking to collaborate on smaller projects!
+- 👀 I’m interested in full-stack and front-end.
+- 🌱 I’m a software developer with experince in JavaScript, CSS, HTML, Python, Github, React, JSON and Node.js
+
 - 📫 How to reach me hannah.brooke.m@hotmail.co.uk
 
 <!---
